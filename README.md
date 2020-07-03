@@ -13,6 +13,5 @@ Output:
 ![alt text](https://github.com/sreelathareddy369/Assignment_Writer/blob/master/output.jpg)
 
 
-plz create floder with font text (all written images include even ,/./&/$/*.... and so on.
-i am not uploading the fint text because it;s more than 100 images 
+
 
