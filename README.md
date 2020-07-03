@@ -12,6 +12,8 @@ Everything works! , new handwriting styles added!
 Output:
 ![alt text](https://github.com/sreelathareddy369/Assignment_Writer/blob/master/output.jpg)
 
+plz write it and upload all fontText  images  and create a floder(fontText) and upload all the font text images because it's more than 300 images it's not uploading all once's.so  upload urself and excute it.
+
 
 
 
